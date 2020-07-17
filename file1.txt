@@ -3,3 +3,4 @@ New feature A
 New feature B
 Bug Fix 1
 Bug Fix 2
+Bug Fix 3
